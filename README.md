@@ -4,6 +4,7 @@ QueensTechLabの課題１を載せています
 
 # 課題1
 ###出力のさせかた(print?、log?、console.log?)
+
 CUIで出力される場合はprintを使う。
 以下はproject作成時のサンプルアプリの生成順番を知るためのprint。
 <dl>
@@ -17,4 +18,5 @@ CUIで出力される場合はprintを使う。
 ※Webではconsole.logで出力することができる。
 
 ###画面とログの両方に出力する
+
 ステートフルウィジェットに定数buildDebugを入れてログと画面に出力。
