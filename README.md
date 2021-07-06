@@ -1,6 +1,8 @@
 # mht_com_task1
 
-QueensTechLabの課題１を載せています
+QueensTechLabの課題１を載せています。
+
+main.dartに記載しています
 
 # 課題1
 
